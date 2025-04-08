@@ -1,4 +1,4 @@
-import GoogleLoginButton from "./components/ui/GoogleLoginButton";
+import GoogleLoginButton from "@/components/ui/GoogleLoginButton";
 
 export default function Home() {
   return (
